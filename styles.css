@@ -1,4 +1,73 @@
+.topnav {
+    text-align: end;
+    margin: 5px;
+}
+
 .navbar-nav {
     justify-content: space-around;
     width: 100%;
+}
+
+.number {
+    color: green;
+    font-size: 45px;
+}
+
+.green-link {
+    color: green;
+}
+
+.section-heading {
+    padding-top: 65px;
+}
+
+.section-title {
+    text-align: center;
+}
+
+section {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+
+.section-items {
+    text-align: center;
+    margin: auto;
+}
+
+.boy-img {
+    width: 80%;
+}
+
+.ecobag-img {
+    width: 45%;
+    padding-top: 45px;
+    padding-bottom: 65px;
+}
+
+.green-button {
+    background-color: green;
+    color: #fff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.key-word{
+    color: green;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+
+.footer-logo {
+    padding-bottom: 60px;
+}
+
+.footer-nav {
+    color: gray;
+}
+
+.footer-nav:hover {
+    color: #343a40;
 }
