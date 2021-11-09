@@ -71,3 +71,19 @@ footer {
 .footer-nav:hover {
     color: #343a40;
 }
+
+.logo-link {
+    font-size: 24px;
+    color: gray;
+    margin: 10px;
+}
+
+.logo-link:hover {
+    color: #343a40;
+}
+
+.footer-bottom {
+    border-top: 1px solid rgba(131, 156, 148, 0.2);;
+    text-align: center;
+    padding: 15px;
+}
