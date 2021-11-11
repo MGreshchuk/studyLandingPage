@@ -23,6 +23,7 @@
 
 .section-title {
     text-align: center;
+    padding-bottom: 45px;
 }
 
 section {
@@ -32,15 +33,18 @@ section {
 
 .section-items {
     text-align: center;
-    margin: auto;
 }
 
 .boy-img {
     width: 80%;
+    margin: auto;
+    display: block;
 }
 
 .ecobag-img {
-    width: 45%;
+    width: 40%;
+    margin: auto;
+    display: block;
     padding-top: 45px;
     padding-bottom: 65px;
 }
@@ -56,10 +60,44 @@ section {
     color: green;
 }
 
+.cup-img {
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+.bordered-column {
+    border-bottom: 1px rgba(131, 156, 148, 0.2) solid;
+    margin-bottom: 20px;
+}
+
+.italic {
+    font-style: italic;
+    color: #839C94;
+}
+
+.ecozahid-img {
+    width: 100%;
+}
+
+.banner-items {
+    padding-top: 15px;
+    margin: 5px;
+}
+
+.smaller-font {
+    font-size: 24px;
+}
+
+.border-line {
+    border-top: 1px solid rgba(131, 156, 148, 0.2);
+}
+
 footer {
     background-color: #f8f9fa;
 }
 
+section
 .footer-logo {
     padding-bottom: 60px;
 }
@@ -83,7 +121,7 @@ footer {
 }
 
 .footer-bottom {
-    border-top: 1px solid rgba(131, 156, 148, 0.2);;
+    border-top: 1px solid rgba(131, 156, 148, 0.2);
     text-align: center;
     padding: 15px;
 }
